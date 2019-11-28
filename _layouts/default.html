@@ -6,17 +6,24 @@
 		<link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
 	</head>
 	<body>
-		<nav>
-			<h1>Navigation bar</h1>
-		</nav>
-		<main>
-			{{ content }}
-		</main>
-		<aside>
-			<p>Sidebar text</p>
-		</aside>
-		<footer>
-			<p>footer</p>
-		</footer>
+		<div class="grid-container">
+			<nav>
+				<a href="#" id="mobile-nav-button">&#9776;</a>
+				<a href="#">Link 1</a>
+				<a href="#">Link 2</a>
+				<a href="#">Link 3</a>
+				<a href="#">Link 4</a>
+				<a href="#">Link 5</a>
+			</nav>
+			<main>
+				{{ content }}
+			</main>
+			<aside>
+				<p>Sidebar text</p>
+			</aside>
+			<footer>
+				<p>&copy; 2019 marteinnsi</p>
+			</footer>
+		</div>
 	</body>
 </html>
