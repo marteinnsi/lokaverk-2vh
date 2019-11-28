@@ -5,9 +5,18 @@
 	box-sizing: border-box;
 }
 
+h1, h2, h3, h4, h5, h6
+{
+	font-family: "Tomorrow", sans-serif;
+}
+
+a, p, small, b
+{
+	font-family: "Montserrat Alternates", sans-serif;
+}
+
 nav
 {
-	background-color: red;
 }
 
 nav a
@@ -24,19 +33,16 @@ nav a:hover
 
 main
 {
-	background-color: green;
 	padding:          1em;
 }
 
 aside
 {
-	background-color: blue;
 	padding:          1em;
 }
 
 footer
 {
-	background-color: yellow;
-	line-height: 48px;
-	padding: 0 2em;
+	line-height:      48px;
+	padding:          0 2em;
 }

@@ -9,6 +9,11 @@
 	margin:                0 auto;
 }
 
+.grid-container > *
+{
+	border: thin solid black;
+}
+
 nav a
 {
 	display:    block;
