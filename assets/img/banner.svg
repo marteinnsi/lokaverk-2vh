@@ -10,137 +10,158 @@
         xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
         xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
         width="24mm"
-        height="8mm"
-        viewBox="0 0 24 8"
+        height="7mm"
+        viewBox="0 0 24 7"
         version="1.1"
         id="svg8"
         inkscape:version="0.92.4 5da689c313, 2019-01-14"
         sodipodi:docname="banner.svg">
-    <defs
-            id="defs2">
-        <inkscape:perspective
-                sodipodi:type="inkscape:persp3d"
-                inkscape:vp_x="-2.1129951 : 3.0612512 : 1"
-                inkscape:vp_y="0 : 796.50134 : 0"
-                inkscape:vp_z="25.285564 : 2.6354901 : 1"
-                inkscape:persp3d-origin="12.091874 : 3.8374447 : 1"
-                id="perspective3764"/>
-    </defs>
-    <sodipodi:namedview
-            id="base"
-            pagecolor="#ffffff"
-            bordercolor="#666666"
-            borderopacity="1.0"
-            inkscape:pageopacity="0"
-            inkscape:pageshadow="2"
-            inkscape:zoom="9.0764732"
-            inkscape:cx="44.174928"
-            inkscape:cy="31.160561"
-            inkscape:document-units="mm"
-            inkscape:current-layer="layer1"
-            showgrid="false"
-            inkscape:window-width="1872"
-            inkscape:window-height="1024"
-            inkscape:window-x="48"
-            inkscape:window-y="28"
-            inkscape:window-maximized="1"
-            inkscape:pagecheckerboard="true"/>
-    <metadata
-            id="metadata5">
-        <rdf:RDF>
-            <cc:Work
-                    rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type
-                        rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-                <dc:title></dc:title>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <g
-            inkscape:label="Layer 1"
-            inkscape:groupmode="layer"
-            id="layer1"
-            transform="translate(0,-289)"
-            style="display:inline">
-        <text
-                xml:space="preserve"
-                style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-                x="0.63783485"
-                y="296.41235"
-                id="text3723"><tspan
+  <defs
+          id="defs2">
+    <inkscape:perspective
+            sodipodi:type="inkscape:persp3d"
+            inkscape:vp_x="-2.3341242 : 1.9702544 : 1"
+            inkscape:vp_y="0 : 796.50134 : 0"
+            inkscape:vp_z="25.064435 : 1.5444933 : 1"
+            inkscape:persp3d-origin="11.870745 : 2.7464479 : 1"
+            id="perspective3764"/>
+  </defs>
+  <sodipodi:namedview
+          id="base"
+          pagecolor="#ffffff"
+          bordercolor="#666666"
+          borderopacity="1.0"
+          inkscape:pageopacity="0"
+          inkscape:pageshadow="2"
+          inkscape:zoom="9.0764732"
+          inkscape:cx="68.808035"
+          inkscape:cy="1.8442655"
+          inkscape:document-units="mm"
+          inkscape:current-layer="layer1"
+          showgrid="false"
+          inkscape:window-width="1872"
+          inkscape:window-height="1024"
+          inkscape:window-x="48"
+          inkscape:window-y="28"
+          inkscape:window-maximized="1"
+          inkscape:pagecheckerboard="true"/>
+  <metadata
+          id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+              rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+          inkscape:label="Layer 1"
+          inkscape:groupmode="layer"
+          id="layer1"
+          transform="translate(0,-290)"
+          style="display:inline">
+    <text
+            xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Serif Devanagari';-inkscape-font-specification:'Noto Serif Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+            x="0.63783485"
+            y="296.41235"
+            id="text3723"><tspan
          sodipodi:role="line"
          id="tspan3721"
          x="0.63783485"
-         y="305.77612"
-         style="stroke-width:0.26458332" /></text>
-        <g
-                id="g3806"
-                transform="matrix(0.79650134,0,0,0.79650134,-1.8265899,61.128898)">
-            <g
-                    transform="translate(12.862714,5.5261559)"
-                    id="g3794">
-                <g
-                        sodipodi:type="inkscape:box3d"
-                        id="g3766"
-                        inkscape:perspectiveID="#perspective3764"
-                        inkscape:corner0="3.3651316 : -0.0038380776 : 0 : 1"
-                        inkscape:corner7="0.023077707 : 0.004955056 : 8.839549 : 1">
-                    <path
-                            sodipodi:type="inkscape:box3dside"
-                            id="path3768"
-                            style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
-                            inkscape:box3dsidetype="6"
-                            d="m -9.1367162,287.42045 v -2.0144 l 20.2923332,1.26717 v 0.66591 z"
-                            points="-9.1367162,285.40605 11.155617,286.67322 11.155617,287.33913 -9.1367162,287.42045 "/>
-                    <path
-                            sodipodi:type="inkscape:box3dside"
-                            id="path3778"
-                            style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
-                            inkscape:box3dsidetype="11"
-                            d="m 11.155617,287.33913 8.260708,0.19475 v -0.89157 l -8.260708,0.0309 z"
-                            points="19.416325,287.53388 19.416325,286.64231 11.155617,286.67322 11.155617,287.33913 "/>
-                    <path
-                            sodipodi:type="inkscape:box3dside"
-                            id="path3776"
-                            style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
-                            inkscape:box3dsidetype="13"
-                            d="m -9.1367162,285.40605 13.3462183,-4.43742 15.2068229,5.67368 -8.260708,0.0309 z"
-                            points="4.2095021,280.96863 19.416325,286.64231 11.155617,286.67322 -9.1367162,285.40605 "/>
-                    <path
-                            sodipodi:type="inkscape:box3dside"
-                            id="path3770"
-                            style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
-                            inkscape:box3dsidetype="5"
-                            d="m -9.1367162,287.42045 13.3462183,2.14297 15.2068229,-2.02954 -8.260708,-0.19475 z"
-                            points="4.2095021,289.56342 19.416325,287.53388 11.155617,287.33913 -9.1367162,287.42045 "/>
-                    <path
-                            sodipodi:type="inkscape:box3dside"
-                            id="path3774"
-                            style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
-                            inkscape:box3dsidetype="14"
-                            d="m 4.2095021,289.56342 v -8.59479 l 15.2068229,5.67368 v 0.89157 z"
-                            points="4.2095021,280.96863 19.416325,286.64231 19.416325,287.53388 4.2095021,289.56342 "/>
-                    <path
-                            sodipodi:type="inkscape:box3dside"
-                            id="path3772"
-                            style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
-                            inkscape:box3dsidetype="3"
-                            d="m -9.1367162,287.42045 13.3462183,2.14297 v -8.59479 l -13.3462183,4.43742 z"
-                            points="4.2095021,289.56342 4.2095021,280.96863 -9.1367162,285.40605 -9.1367162,287.42045 "/>
-                </g>
-            </g>
-            <text
-                    id="text3727"
-                    y="291.55466"
-                    x="4.1288953"
-                    style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-                    xml:space="preserve"><tspan
-           style="font-size:5.64444447px;line-height:1.25;stroke-width:0.26458332"
-           y="291.55466"
-           x="4.1288953"
-           id="tspan3725"
-           sodipodi:role="line">GLACERA</tspan></text>
-        </g>
+         y="304.06485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif Devanagari';-inkscape-font-specification:'Noto Serif Devanagari';stroke-width:0.26458332" /></text>
+    <g
+            id="g3794"
+            transform="matrix(0.79650134,0,0,0.79650134,7.8676501,64.312888)">
+      <g
+              inkscape:corner7="0.014045159 : 0.004955056 : 8.839549 : 1"
+              inkscape:corner0="3.3651316 : -0.002395714 : 0 : 1"
+              inkscape:perspectiveID="#perspective3764"
+              id="g3766"
+              sodipodi:type="inkscape:box3d">
+        <path
+                points="-8.7226555,288.30447 11.569677,289.57165 11.569677,290.12833 -8.7226555,289.98844 "
+                d="m -8.7226555,289.98844 v -1.68397 l 20.2923325,1.26718 v 0.55668 z"
+                inkscape:box3dsidetype="6"
+                style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+                id="path3768"
+                sodipodi:type="inkscape:box3dside"/>
+        <path
+                points="20.226287,290.03044 20.226287,289.28444 11.935659,289.31546 11.935659,289.87214 "
+                d="m 11.935659,289.87214 8.290628,0.1583 v -0.746 l -8.290628,0.031 z"
+                inkscape:box3dsidetype="11"
+                style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+                id="path3778"
+                sodipodi:type="inkscape:box3dside"/>
+        <path
+                points="4.7788356,283.81543 19.860305,289.54063 11.569677,289.57165 -8.7226555,288.30447 "
+                d="m -8.7226555,288.30447 13.5014911,-4.48904 15.0814694,5.7252 -8.290628,0.031 z"
+                inkscape:box3dsidetype="13"
+                style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+                id="path3776"
+                sodipodi:type="inkscape:box3dside"/>
+        <path
+                points="4.7788356,291.06439 19.860305,290.28662 11.569677,290.12833 -8.7226555,289.98844 "
+                d="m -8.7226555,289.98844 13.5014911,1.07595 15.0814694,-0.77777 -8.290628,-0.15829 z"
+                inkscape:box3dsidetype="5"
+                style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+                id="path3770"
+                sodipodi:type="inkscape:box3dside"/>
+        <path
+                points="4.7788356,283.81543 19.860305,289.54063 19.860305,290.28662 4.7788356,291.06439 "
+                d="m 4.7788356,291.06439 v -7.24896 l 15.0814694,5.7252 v 0.74599 z"
+                inkscape:box3dsidetype="14"
+                style="fill:#12eaea;fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:1"
+                id="path3774"
+                sodipodi:type="inkscape:box3dside"/>
+        <path
+                points="4.7788356,291.06439 4.7788356,283.81543 -8.7226555,288.30447 -8.7226555,289.98844 "
+                d="m -8.7226555,289.98844 13.5014911,1.07595 v -7.24896 l -13.5014911,4.48904 z"
+                inkscape:box3dsidetype="3"
+                style="fill:#009595;fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:1"
+                id="path3772"
+                sodipodi:type="inkscape:box3dside"/>
+      </g>
     </g>
+    <rect
+            id="rect3841"
+            width="20.492771"
+            height="2.9733465"
+            x="1.7536144"
+            y="292.01334"
+            style="fill:#d629d6;fill-opacity:1;stroke-width:0.21059576"/>
+    <text
+            xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42963886px;line-height:1.25;font-family:'Noto Serif Devanagari';-inkscape-font-specification:'Noto Serif Devanagari';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21074097"
+            x="2.208178"
+            y="294.78415"
+            id="text3727"><tspan
+         sodipodi:role="line"
+         id="tspan3725"
+         x="2.208178"
+         y="294.78415"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.21074097">GLACERA</tspan></text>
+    <rect
+            style="fill:#000000;fill-opacity:1;stroke-width:0.21059576"
+            y="292.01334"
+            x="1.7536144"
+            height="2.9733465"
+            width="20.492771"
+            id="rect4666"/>
+    <text
+            id="text4670"
+            y="294.49265"
+            x="4.1321082"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.42963886px;line-height:1.25;font-family:'Noto Serif Devanagari';-inkscape-font-specification:'Noto Serif Devanagari';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21074097"
+            xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;fill:#ffffff;stroke-width:0.21074097"
+         y="294.49265"
+         x="4.1321082"
+         id="tspan4668"
+         sodipodi:role="line">GLACERA</tspan></text>
+  </g>
 </svg>
