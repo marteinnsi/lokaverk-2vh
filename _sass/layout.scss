@@ -20,6 +20,11 @@ nav a
 	text-align: center;
 }
 
+nav .nav-items
+{
+	display: none;
+}
+
 @media only screen and (min-width: 768px)
 {
 	.grid-container
@@ -47,13 +52,17 @@ nav a
 	{
 		display: none;
 	}
+
+	nav .nav-items
+	{
+		display: block !important;
+	}
 }
 
 
 nav
 {
 	grid-area: navbar;
-
 }
 
 main

@@ -6,15 +6,19 @@
 		<title>{{ page.title }} | Glacera Records</title>
 		<link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
 		<link href="https://fonts.googleapis.com/css?family=Alata|Roboto&display=swap" rel="stylesheet">
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+		<script src="{{site.baseurl}}/assets/js/main.js"></script>
 	<body>
 		<div class="grid-container">
 			<nav>
 				<a href="#" id="mobile-nav-button">&#9776;</a>
-				<a href="#">Link 1</a>
-				<a href="#">Link 2</a>
-				<a href="#">Link 3</a>
-				<a href="#">Link 4</a>
-				<a href="#">Link 5</a>
+				<div class="nav-items">
+					<a href="#">Link 1</a>
+					<a href="#">Link 2</a>
+					<a href="#">Link 3</a>
+					<a href="#">Link 4</a>
+					<a href="#">Link 5</a>
+				</div>
 			</nav>
 			<main>
 				{{ content }}
