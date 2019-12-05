@@ -9,11 +9,6 @@
 	margin:                0 auto;
 }
 
-.grid-container > *
-{
-	border: thin solid black;
-}
-
 nav a
 {
 	display:    block;
@@ -29,7 +24,7 @@ nav .nav-items
 {
 	.grid-container
 	{
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 2fr 1fr;
 		grid-template-rows:    auto 1fr 1fr 48px;
 		grid-template-areas:   "navbar navbar" "content sidebar" "content sidebar" "footer footer";
 	}

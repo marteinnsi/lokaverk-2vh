@@ -1,3 +1,9 @@
+$eerie-black: #161925;
+$jap-indigo:  #23395b;
+$queen-blue:  #406e8e;
+$pewter-blue: #8ea8c3;
+$aero-blue:   #cbf7ed;
+
 *
 {
 	padding:    0;
@@ -15,8 +21,26 @@ a, p, small, b
 	font-family: 'Roboto', sans-serif;
 }
 
+html, head, body
+{
+	background-color: $eerie-black;
+}
+
+.grid-container
+{
+	background-color: whitesmoke;
+}
+
+.responsive-img
+{
+	width:  100%;
+	height: auto;
+}
+
 nav
 {
+	background-color: $jap-indigo;
+	color:            $aero-blue;
 }
 
 nav a
@@ -29,7 +53,7 @@ nav a
 
 nav a:hover
 {
-	background-color: deeppink;
+	background-color: $queen-blue;
 }
 
 main

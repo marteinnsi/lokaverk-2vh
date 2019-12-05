@@ -8,6 +8,22 @@
 		<link href="https://fonts.googleapis.com/css?family=Alata|Roboto&display=swap" rel="stylesheet">
 		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 		<script src="{{site.baseurl}}/assets/js/main.js"></script>
+		<style>
+			.grid-container
+			{
+				grid-template-areas: "navbar" "content" "content" "footer";
+			}
+
+			@media only screen and (min-width: 768px)
+			{
+				.grid-container
+				{
+					grid-template-areas: "navbar navbar" "content content" "content content" "footer footer";
+				}
+			}
+		</style>
+	</head>
+
 	<body>
 		<div class="grid-container">
 			<nav>
@@ -21,9 +37,6 @@
 			<main>
 				{{ content }}
 			</main>
-			<aside>
-				<img class="responsive-img" src="{{site.baseurl}}/assets/img/sidebar-big-placeholder-ad.jpg" alt="">
-			</aside>
 			<footer>
 				<p>&copy; 2019 marteinnsi</p>
 			</footer>
