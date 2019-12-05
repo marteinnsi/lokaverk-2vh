@@ -7,12 +7,12 @@
 
 h1, h2, h3, h4, h5, h6
 {
-	font-family: "Tomorrow", sans-serif;
+	font-family: 'Alata', sans-serif;
 }
 
 a, p, small, b
 {
-	font-family: "Montserrat Alternates", sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 nav
@@ -24,6 +24,7 @@ nav a
 	line-height:     48px;
 	text-decoration: none;
 	color:           unset;
+	font-family:     'Alata', sans-serif;
 }
 
 nav a:hover
@@ -33,16 +34,16 @@ nav a:hover
 
 main
 {
-	padding:          1em;
+	padding: 1em;
 }
 
 aside
 {
-	padding:          1em;
+	padding: 1em;
 }
 
 footer
 {
-	line-height:      48px;
-	padding:          0 2em;
+	line-height: 48px;
+	padding:     0 2em;
 }
