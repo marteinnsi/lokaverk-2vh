@@ -37,6 +37,15 @@ html, head, body
 	height: auto;
 }
 
+img.banner
+{
+	width:     100%;
+	height:    auto;
+	max-width: 40em;
+	display:   block;
+	margin:    0 auto;
+}
+
 nav
 {
 	background-color: $jap-indigo;
@@ -58,7 +67,7 @@ nav a:hover
 
 main
 {
-	padding: 1em;
+	padding: 1em 4em;
 }
 
 aside
