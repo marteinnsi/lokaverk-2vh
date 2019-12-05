@@ -34,7 +34,7 @@
           inkscape:pageopacity="0"
           inkscape:pageshadow="2"
           inkscape:zoom="9.0764732"
-          inkscape:cx="68.808035"
+          inkscape:cx="51.400393"
           inkscape:cy="1.8442655"
           inkscape:document-units="mm"
           inkscape:current-layer="layer1"
@@ -115,14 +115,14 @@
                 points="4.7788356,283.81543 19.860305,289.54063 19.860305,290.28662 4.7788356,291.06439 "
                 d="m 4.7788356,291.06439 v -7.24896 l 15.0814694,5.7252 v 0.74599 z"
                 inkscape:box3dsidetype="14"
-                style="fill:#12eaea;fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:1"
+                style="fill:#325182;fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:1"
                 id="path3774"
                 sodipodi:type="inkscape:box3dside"/>
         <path
                 points="4.7788356,291.06439 4.7788356,283.81543 -8.7226555,288.30447 -8.7226555,289.98844 "
                 d="m -8.7226555,289.98844 13.5014911,1.07595 v -7.24896 l -13.5014911,4.48904 z"
                 inkscape:box3dsidetype="3"
-                style="fill:#009595;fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:1"
+                style="fill:#23395b;fill-rule:evenodd;stroke:none;stroke-linejoin:round;fill-opacity:0.91463417"
                 id="path3772"
                 sodipodi:type="inkscape:box3dside"/>
       </g>
