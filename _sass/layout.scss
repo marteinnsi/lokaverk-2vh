@@ -20,6 +20,11 @@ nav .nav-items
 	display: none;
 }
 
+main
+{
+	padding: 1em 2em;
+}
+
 @media only screen and (min-width: 768px)
 {
 	.grid-container
@@ -51,6 +56,11 @@ nav .nav-items
 	nav .nav-items
 	{
 		display: block !important;
+	}
+
+	main
+	{
+		padding: 1em 4em;
 	}
 }
 
